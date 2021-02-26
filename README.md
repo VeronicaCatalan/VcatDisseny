@@ -6,7 +6,7 @@ Product designer and graphic designer
 - [Web](https://vcatdisseny.wixsite.com/website)
 
 ##Skills:
-|[Photohop](https:/img.shields.io/badge/Photoshop-0095D5?style=for-the-badge&logo=photoshop&logoColor=white&labelColor=101010)</br>
+|[Photohop](https://img.shields.io/static/v1?label=<LABEL>&message=<PhotoShop>&color=<blue>)</br>
 
 ##Find me at:
 ### Spanish
