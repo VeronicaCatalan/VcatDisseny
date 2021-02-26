@@ -5,8 +5,8 @@ Product designer and graphic designer
 - [LinkedlIn](https://www.linkedin.com/feed/)
 - [Web](https://vcatdisseny.wixsite.com/website)
 
-##Skills:
-![Photoshop](https://img.shields.io/static/v1?label=Adobe&message=Photoshop&blue=<COLOR>)</br>
+##Skills:</br>
+![Photoshop](https://img.shields.io/static/v1?label=Adobe&message=Photoshop-0095D5>)</br>
 
 ##Find me at:
 ### Spanish
