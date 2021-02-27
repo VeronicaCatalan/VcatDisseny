@@ -6,7 +6,7 @@ Product designer and graphic designer
 - [Web](https://vcatdisseny.wixsite.com/website)
 
 ##Skills:</br>
-![Photoshop](https://img.shields.io/static/v1?label=Adobe&message=Photoshop&messageColor=blue)
+![Photoshop](https://img.shields.io/static/v1?label=Adobe&message=Photoshop&Color=blue&messageblue)
 
 ##Find me at:
 ### Spanish
